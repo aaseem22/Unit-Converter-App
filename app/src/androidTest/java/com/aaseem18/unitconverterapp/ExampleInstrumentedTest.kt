@@ -1,4 +1,4 @@
-package com.endurancetech.unitconverterapp
+package com.aaseem18.unitconverterapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

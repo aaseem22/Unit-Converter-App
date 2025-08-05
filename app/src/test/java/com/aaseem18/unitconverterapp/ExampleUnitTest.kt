@@ -1,4 +1,4 @@
-package com.endurancetech.unitconverterapp
+package com.aaseem18.unitconverterapp
 
 import org.junit.Test
 

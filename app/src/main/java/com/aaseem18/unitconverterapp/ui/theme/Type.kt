@@ -1,4 +1,4 @@
-package com.endurancetech.unitconverterapp.ui.theme
+package com.aaseem18.unitconverterapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

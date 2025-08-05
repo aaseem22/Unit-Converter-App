@@ -1,4 +1,4 @@
-package com.endurancetech.unitconverterapp
+package com.aaseem18.unitconverterapp
 
 import android.content.ClipData
 import android.content.ClipboardManager
@@ -36,13 +36,14 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.endurancetech.unitconverterapp.ui.theme.CardBackground
-import com.endurancetech.unitconverterapp.ui.theme.DeepCoral
-import com.endurancetech.unitconverterapp.ui.theme.SoftCoral
-import com.endurancetech.unitconverterapp.ui.theme.TextDark
-import com.endurancetech.unitconverterapp.ui.theme.TextMedium
-import com.endurancetech.unitconverterapp.ui.theme.WarmCream
-import com.endurancetech.unitconverterapp.ui.theme.WarmWhite
+import com.aaseem18.unitconverterapp.ui.theme.CardBackground
+import com.aaseem18.unitconverterapp.ui.theme.DeepCoral
+import com.aaseem18.unitconverterapp.ui.theme.SoftCoral
+import com.aaseem18.unitconverterapp.ui.theme.TextDark
+import com.aaseem18.unitconverterapp.ui.theme.TextMedium
+import com.aaseem18.unitconverterapp.ui.theme.WarmCream
+import com.aaseem18.unitconverterapp.ui.theme.WarmWhite
+import com.endurancetech.unitconverterapp.R
 
 
 class MainActivity : ComponentActivity() {
