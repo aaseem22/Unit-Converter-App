@@ -18,10 +18,8 @@ A modern and intuitive **Android Unit Converter** application built with **Jetpa
 
 ## 📸 Screenshots
 
+---![Screenshot_20250805-210209_Unit Converter App](https://github.com/user-attachments/assets/7c3f94bb-a3c0-4bb7-97ac-a8d3b0cd9de4)
 
-<!-- ![Main Screen](screenshots/main_screen.png) -->
-
----
 
 ## 🛠️ Technologies Used
 
